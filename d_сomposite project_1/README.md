@@ -1,4 +1,4 @@
-# Study on borrowers' Reliability
+# Research on Russian cinema distribution data
 
 ## Project description 
 Customer of the research: The Ministry of Culture of the Russian Federation. The goal is to study the Russian film market and identify current trends. Special attention should be given to films that have received government support. An attempt should be made to answer the question of how interesting such films are to the audience. We will work with data published on the open data portal of the Ministry of Culture. The dataset contains information about film distribution certificates, box office earnings, government support for films, as well as information from the Kinopoisk website.
