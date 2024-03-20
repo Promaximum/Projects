@@ -4,7 +4,11 @@
 Customer of the research: The Ministry of Culture of the Russian Federation. The goal is to study the Russian film market and identify current trends. Special attention should be given to films that have received government support. An attempt should be made to answer the question of how interesting such films are to the audience. We will work with data published on the open data portal of the Ministry of Culture. The dataset contains information about film distribution certificates, box office earnings, government support for films, as well as information from the Kinopoisk website.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Seaborn, Matplotlib
+* Python
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
 
 ## Key Findings
 1) During the exploratory data analysis, we found that until 2015, there were relatively few films shown, although their number was increasing, and their share varied from 10% to 30%. The highest number of films was shown in 2019, although their share in the overall cinema screening rating is not at the top. The maximum box office earnings were in 2017. The minimum box office earnings were in the years 2010-2013. This is indicated by both the average and median lines.
