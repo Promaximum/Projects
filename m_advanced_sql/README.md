@@ -1,4 +1,4 @@
-# Project: Advanced SQL. Part Two
+# Advanced SQL
 
 ## Project description 
 In this part of the project, it was necessary to write several SQL queries in a Jupyter Notebook.
