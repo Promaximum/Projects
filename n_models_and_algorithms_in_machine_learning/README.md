@@ -1,14 +1,13 @@
-# Project: Advanced SQL. Part Two
+# Project: "Star Temperature Forecast"
 
 ## Project description 
-In this part of the project, it was necessary to write several SQL queries in a Jupyter Notebook.
+The "Palm Sky" observatory has assigned a task: to devise a way to use a neural network to determine the temperature on the surface of detected stars. In this independent project, it is necessary to develop a neural network that will help predict the absolute temperature on the surface of a star.
 
 ## Tools & Skills
-Python, Pandas, Matplotlib, Sqlalchemy, Plotly
+Python, Pandas, Numpy, Os, Tqdm, Plotly.express, Random, Copy, Pandas_profiling, Matplotlib, Math, Torch, Sklearn
 
 ## Key Findings
 
-During the project execution, the following tasks were completed:
+1) During the development of the baseline neural network, it was found that it performs well in predicting the temperature of stars up to 10,000 degrees. Additionally, the best metric found so far is Adam optimizer with a learning rate of 0.01.
 
-1) Libraries were imported, and a connection to the database was established using SQLAlchemy to work with SQL in Jupyter Notebook.
-2) All assigned tasks were solved, during which anomalies were identified, and possible reasons for their occurrence were explained.
+2) In the process of improving the model, Dropout and BatchNorm1d methods were applied, which increased the RMSE value. Therefore, for optimal solution of the task, it will be necessary to use the first model.
