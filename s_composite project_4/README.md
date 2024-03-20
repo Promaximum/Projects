@@ -23,7 +23,7 @@ For the demonstration version, we need to train a model that will obtain vector 
 * Torchvision
 * Torch
 * Tensorflow
-* keras_nlp
+* Keras_nlp
 * PIL
 * Tqdm
 * Sklearn
