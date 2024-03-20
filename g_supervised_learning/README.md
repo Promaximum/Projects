@@ -4,7 +4,11 @@
 "Beta-Bank" has started losing customers. Every month. Not a lot, but it's noticeable. Bank marketers have calculated that retaining current customers is cheaper than attracting new ones. The task is to forecast whether a customer will leave the bank in the near future. Historical data on customer behavior and contract terminations with the bank have been provided. Build a model with the highest possible F1-score. To pass the project successfully, the F1-score needs to be brought up to 0.59. Check the F1-score on the test dataset independently. Additionally, measure the AUC-ROC, and compare its value with the F1-score.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Matplotlib, Sklearn
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Sklearn
 
 ## Key Findings
 
