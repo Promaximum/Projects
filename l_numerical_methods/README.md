@@ -1,4 +1,4 @@
-# Project 'Car Valuation'
+# Car valuation
 
 ## Project description 
 A used car sales service 'Not damaged, not repainted' is developing an application to attract new clients. In it, users can quickly determine the market value of their car. Historical data is available: technical specifications, configurations, and prices of cars. It is necessary to build a model to determine the value.
