@@ -6,7 +6,27 @@ The task assigned is to develop a demonstration version of an image search engin
 For the demonstration version, we need to train a model that will obtain vector representations of images and text and output a number from 0 to 1, indicating how well the text and image match each other.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Matplotlib, Seaborn, Math, Os, Re, Scipy, Spacy, Nltk, Time, Random, Pathlib, Torchvision, Torch, Tensorflow, keras_nlp, PIL, Tqdm, Sklearn
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Math
+* Os
+* Re
+* Scipy
+* Spacy
+* Nltk
+* Time
+* Random
+* Pathlib
+* Torchvision
+* Torch
+* Tensorflow
+* keras_nlp
+* PIL
+* Tqdm
+* Sklearn
 
 ## Key Findings
 
