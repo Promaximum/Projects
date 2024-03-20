@@ -10,12 +10,12 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Math, Os, Re, Scipy, Spacy, Nltk, Ti
 
 ## Key Findings
 
-Constant Model: 0.151
-Decision Tree Model: 0.46928588696747553
-Random Forest Model: 0.3727522962965532
-CatBoost Model: 0.21024943941452046
-Linear Regression Model: 0.6584369404867693
-Ridge Model: 0.36435526737751944
-Neural Network Model: 0.093
+* Constant Model: 0.151
+* Decision Tree Model: 0.46928588696747553
+* Random Forest Model: 0.3727522962965532
+* CatBoost Model: 0.21024943941452046
+* Linear Regression Model: 0.6584369404867693
+* Ridge Model: 0.36435526737751944
+* Neural Network Model: 0.093
 
 The best model for prediction turned out to be the neural network model with a quality of 0.093.
