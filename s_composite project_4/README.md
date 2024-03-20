@@ -1,21 +1,21 @@
-# Project: "Customer age determination" 
+# Project: "Image search by query" 
 
 ## Project description 
-In the course of this work, we have the following tasks:
+The task assigned is to develop a demonstration version of an image search engine based on queries.
 
-Prepare a report on data exploration.
-Train a model to predict age from a photograph.
-Condition: The Mean Absolute Error (MAE) should not exceed 8.
+For the demonstration version, we need to train a model that will obtain vector representations of images and text and output a number from 0 to 1, indicating how well the text and image match each other.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Tensorflow, Matplotlib, Seaborn, PIL
+Python, Pandas, Numpy, Matplotlib, Seaborn, Math, Os, Re, Scipy, Spacy, Nltk, Time, Random, Pathlib, Torchvision, Torch, Tensorflow, keras_nlp, PIL, Tqdm, Sklearn
 
 ## Key Findings
 
-We have created a model that predicts age from a photograph. The MAE value on the test set is less than 8. There were a total of 7591 photographs. To improve model training, we split the test set from the training set at a ratio of 1:4.
+Constant Model: 0.151
+Decision Tree Model: 0.46928588696747553
+Random Forest Model: 0.3727522962965532
+CatBoost Model: 0.21024943941452046
+Linear Regression Model: 0.6584369404867693
+Ridge Model: 0.36435526737751944
+Neural Network Model: 0.093
 
-We used a pre-trained ResNet50 model and trained it without freezing the data. We utilized Adam optimization with a learning rate of 0.001. The batch_size during data loading was set to 16. We used mean_squared_error as the loss function, which helped speed up the training process.
-
-We tested the model for 10 epochs, and by the 10th epoch, the model achieved an MAE value of 6.2028.
-
-In conclusion, we obtained a model that meets the requirements, namely an MAE below 8.
+The best model for prediction turned out to be the neural network model with a quality of 0.093.
