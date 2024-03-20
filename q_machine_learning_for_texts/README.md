@@ -5,7 +5,7 @@ The online store "Wikishop" is launching a new service. Now users can edit and s
 
 We need to train a model to classify comments as positive or negative. We have a dataset with labels indicating the toxicity of edits.
 
-The goal is to build a model with an F1 score of at least 0.75.
+The goal is to build a model with an F1-score of at least 0.75.
 
 ## Tools & Skills
 Python, Pandas, Numpy, Pandarallel, Tqdm, Nltk, Re, Catboost, Sklearn, Imblearn, Seaborn, Matplotlib, Transformers
