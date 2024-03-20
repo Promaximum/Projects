@@ -1,4 +1,4 @@
-# Tariff Recommendation
+# Tariff recommendation
 
 ## Project description 
 The mobile operator "Megaline" has found out that many customers are using outdated tariff plans. They want to build a system capable of analyzing customer behavior and suggesting a new tariff: "Smart" or "Ultra". We have data on the behavior of customers who have already switched to these tariffs (from the "Statistical Data Analysis" course project). We need to build a classification model that will select the appropriate tariff. Data preprocessing is not required - we have already done it. The goal is to build a model with the highest possible accuracy, aiming for an accuracy of at least 0.75. You need to independently verify the accuracy on the test dataset.
