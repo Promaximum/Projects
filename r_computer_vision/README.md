@@ -1,4 +1,4 @@
-# Project: "Customer age determination" 
+# Customer age determination
 
 ## Project description 
 In the course of this work, we have the following tasks:
