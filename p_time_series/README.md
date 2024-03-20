@@ -1,4 +1,4 @@
-# Project: "Taxi order forecasting"
+# Taxi order forecasting
 
 ## Project description 
 Company "Cool taxi" has collected historical data on taxi orders at airports. To attract more drivers during peak demand periods, it is necessary to forecast the number of taxi orders for the next hour. A model for such prediction is required.
