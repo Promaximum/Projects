@@ -1,4 +1,4 @@
-# Project: "Image search by query" 
+# Image search by query
 
 ## Project description 
 The task assigned is to develop a demonstration version of an image search engine based on queries.
