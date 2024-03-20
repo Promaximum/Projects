@@ -4,7 +4,11 @@
 In this project, we need to train a linear regression model on housing data in California in 1990. Based on the data, we need to predict the median house value in a residential area. Let's train the model and make predictions on the test set. We will evaluate the model's performance using the RMSE, MAE, and R2 metrics.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Pyspark, Seaborn
+* Python
+* Pandas
+* Numpy
+* Pyspark
+* Seaborn
 
 ## Key Findings
 
