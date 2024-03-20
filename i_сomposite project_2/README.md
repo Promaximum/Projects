@@ -4,7 +4,12 @@
 The customer of this research is the "Just Like Home" hotel chain. In order to attract customers, this hotel chain has added the option to book a room on their website without prepayment. However, if a customer cancels the reservation, the company incurs losses. Hotel staff could, for example, purchase products for the guest's arrival or simply fail to find another customer in time. To address this issue, you need to develop a system that predicts reservation cancellations. If the model predicts that the reservation will be canceled, the customer is offered to make a deposit. The deposit amount is 80% of the cost of the room for one day and the cost of one-time cleaning. The money will be deducted from the customer's account if they do cancel the reservation.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Sklearn
 
 ## Key Findings
 
