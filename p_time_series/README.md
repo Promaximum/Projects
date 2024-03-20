@@ -1,19 +1,17 @@
-# Project: "Assessment of the risk of road traffic accidents along the selected route"
+# Project: "Taxi order forecasting"
 
 ## Project description 
-An order to create a system that could assess the risk of road traffic accidents along a selected route was received.
+Company "Cool taxi" has collected historical data on taxi orders at airports. To attract more drivers during peak demand periods, it is necessary to forecast the number of taxi orders for the next hour. A model for such prediction is required.
+
+The RMSE metric value on the test set should not exceed 48.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Seaborn, Matplotlib, Sqlalchemy, Sklearn, Catboost, Calendar, Optuna
+Python, Pandas, Pathlib, Matplotlib, Statsmodels, Sklearn, Lightgbm, Catboost
 
 ## Key Findings
 
-During the execution of the composite project, the following tasks were accomplished:
+The entire month of July was analyzed, followed by a 2-day period. A trend was identified indicating that orders increase over time, peaking at midnight. The data was checked for stationary time series. Features were created for the month, day of the week, lagged features, and moving averages. Missing values were then removed, resulting in a table with 29 features ready for model building.
 
-1) Loaded SQL tables.
-2) Conducted initial exploration of the tables.
-3) Performed statistical analysis of road traffic accident (RTA) factors.
-4) Created a model for assessing driver risk.
-5) Analyzed the importance of RTA factors.
-6) Identified and evaluated the best-performing model, which turned out to be a decision tree model with an F1 score of 0.665457 on the test dataset.
-7) Drew conclusions from the model and provided recommendations for further research.
+The dataset was split into test, training, and validation sets. Models were trained using linear regression, decision tree, and random forest algorithms. The best RMSE value was obtained with LGBM.
+
+In the end, the RMSE was 41.34, which is less than 48, meeting the task requirements.
