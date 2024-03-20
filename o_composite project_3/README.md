@@ -1,4 +1,4 @@
-# Project: "Assessment of the risk of road traffic accidents along the selected route"
+# Assessment of the risk of road traffic accidents along the selected route
 
 ## Project description 
 An order to create a system that could assess the risk of road traffic accidents along a selected route was received.
