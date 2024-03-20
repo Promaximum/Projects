@@ -1,4 +1,4 @@
-# Study on borrowers' Reliability
+# Study on borrowers' reliability
 
 ## Project description 
 Customer - the credit department of a bank. It is necessary to investigate whether the marital status and the number of children of the client affect the timely repayment of the loan. The input data from the bank is statistics on the creditworthiness of clients. The results of the study will be taken into account when building a credit scoring model - a special system that assesses the ability of a potential borrower to repay the loan to the bank.
