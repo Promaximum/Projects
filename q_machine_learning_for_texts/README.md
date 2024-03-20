@@ -1,4 +1,4 @@
-# Project: "Wikishop" 
+# Wikishop
 
 ## Project description 
 The online store "Wikishop" is launching a new service. Now users can edit and supplement product descriptions, similar to wiki communities. In other words, customers can suggest their edits and comment on changes made by others. The store needs a tool to identify toxic comments and send them for moderation.
