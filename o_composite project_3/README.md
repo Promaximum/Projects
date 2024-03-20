@@ -1,13 +1,19 @@
-# Project: "Star Temperature Forecast"
+# Project: "Assessment of the risk of road traffic accidents along the selected route"
 
 ## Project description 
-The "Palm Sky" observatory has assigned a task: to devise a way to use a neural network to determine the temperature on the surface of detected stars. In this independent project, it is necessary to develop a neural network that will help predict the absolute temperature on the surface of a star.
+An order to create a system that could assess the risk of road traffic accidents along a selected route was received.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Os, Tqdm, Plotly.express, Random, Copy, Pandas_profiling, Matplotlib, Math, Torch, Sklearn
+Python, Pandas, Numpy, Seaborn, Matplotlib, Sqlalchemy, Sklearn, Catboost, Calendar, Optuna
 
 ## Key Findings
 
-1) During the development of the baseline neural network, it was found that it performs well in predicting the temperature of stars up to 10,000 degrees. Additionally, the best metric found so far is Adam optimizer with a learning rate of 0.01.
+During the execution of the composite project, the following tasks were accomplished:
 
-2) In the process of improving the model, Dropout and BatchNorm1d methods were applied, which increased the RMSE value. Therefore, for optimal solution of the task, it will be necessary to use the first model.
+1) Loaded SQL tables.
+2) Conducted initial exploration of the tables.
+3) Performed statistical analysis of road traffic accident (RTA) factors.
+4) Created a model for assessing driver risk.
+5) Analyzed the importance of RTA factors.
+6) Identified and evaluated the best-performing model, which turned out to be a decision tree model with an F1 score of 0.665457 on the test dataset.
+7) Drew conclusions from the model and provided recommendations for further research.
