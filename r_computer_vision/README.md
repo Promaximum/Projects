@@ -8,7 +8,13 @@ Train a model to predict age from a photograph.
 Condition: The Mean Absolute Error (MAE) should not exceed 8.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Tensorflow, Matplotlib, Seaborn, PIL
+* Python
+* Pandas
+* Numpy
+* Tensorflow
+* Matplotlib
+* Seaborn
+* PIL
 
 ## Key Findings
 
