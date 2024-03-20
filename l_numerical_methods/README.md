@@ -4,7 +4,15 @@
 A used car sales service 'Not damaged, not repainted' is developing an application to attract new clients. In it, users can quickly determine the market value of their car. Historical data is available: technical specifications, configurations, and prices of cars. It is necessary to build a model to determine the value.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Matplotlib, Seaborn, Lightgbm, Catboost, Category_encoders, Sklearn
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Lightgbm
+* Catboost
+* Category_encoders
+* Sklearn
 
 ## Key Findings
 
