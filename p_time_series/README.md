@@ -6,7 +6,14 @@ Company "Cool taxi" has collected historical data on taxi orders at airports. To
 The RMSE metric value on the test set should not exceed 48.
 
 ## Tools & Skills
-Python, Pandas, Pathlib, Matplotlib, Statsmodels, Sklearn, Lightgbm, Catboost
+* Python
+* Pandas
+* Pathlib
+* Matplotlib
+* Statsmodels
+* Sklearn
+* Lightgbm
+* Catboost
 
 ## Key Findings
 
