@@ -4,7 +4,11 @@
 In the "Megaline" company, a federal mobile operator, customers are offered two tariff plans: "Smart" and "Ultra." To adjust the advertising budget, the commercial department wants to understand which tariff plan brings in more money. A preliminary analysis of the tariffs on a small sample of customers is required. Data on 500 "Megaline" users is available: who they are, where they are from, which tariff plan they use, and how many calls and messages each sent in 2018. It is necessary to analyze customer behavior and make a conclusion - which tariff is better (for the company).
 
 ## Tools & Skills
-Python, Pandas, Numpy, Seaborn, Matplotlib
+* Python
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
 
 ## Key Findings
 1) During the exploratory data analysis, we found that until 2015, there were relatively few films shown, although their number was increasing, and their share varied from 10% to 30%. The highest number of films was shown in 2019, although their share in the overall cinema screening rating is not at the top. The maximum box office earnings were in 2017. The minimum box office earnings were in the years 2010-2013. This is indicated by both the average and median lines.
