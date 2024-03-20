@@ -4,7 +4,11 @@
 The available data from the Yandex Real Estate service comprises an archive of apartment sale listings in St. Petersburg and neighboring areas over several years. The goal is to learn how to determine the market value of real estate properties. Our task is to establish parameters that will enable the construction of an automated system capable of detecting anomalies and fraudulent activities.
 
 ## Tools & Skills
-Python, Pandas, Random, Matplotlib, Numpy
+* Python
+* Pandas
+* Random
+* Matplotlib
+* Numpy
 
 ## Key Findings
 1) The most popular apartments are those ranging from 30 to 46 square meters.
