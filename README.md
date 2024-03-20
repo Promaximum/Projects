@@ -4,4 +4,5 @@ The projects were completed as part of the training at Yandex.Practicum, within 
 
 | Project title | Description | Tools & Skills | 
 | :---------------------- | :---------------------- | :---------------------- |
-| Big_cities_music | Comparison of user preferences on Yandex.Music between Moscow and Saint Petersburg depending on the time of day (morning and evening) and day of the week (Monday, Wednesday, Friday)| Python, Pandas |
+| Big cities music | Comparison of user preferences on Yandex.Music between Moscow and Saint Petersburg depending on the time of day (morning and evening) and day of the week (Monday, Wednesday, Friday)| Python, Pandas |
+| Study on borrowers' Reliability | Comparison of user preferences on Yandex.Music between Moscow and Saint Petersburg depending on the time of day (morning and evening) and day of the week (Monday, Wednesday, Friday)| Python, Pandas |
