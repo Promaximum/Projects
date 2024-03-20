@@ -6,7 +6,11 @@ The task from the extraction company "X" is to decide where to drill a new oil w
 We have samples of oil in three regions: in each region, there are 10,000 oil fields where the quality of the oil and the volume of its reserves were measured. The goal is to build a machine learning model that will help determine the region where extraction will bring the highest profit. Additionally, we need to analyze the potential profit and risks using the Bootstrap method.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Matplotlib, Sklearn
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Sklearn
 
 ## Key Findings
 
