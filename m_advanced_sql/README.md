@@ -4,7 +4,12 @@
 In this part of the project, it was necessary to write several SQL queries in a Jupyter Notebook.
 
 ## Tools & Skills
-Python, SQL, Pandas, Matplotlib, Sqlalchemy, Plotly
+* Python
+* SQL
+* Pandas
+* Matplotlib
+* Sqlalchemy
+* Plotly
 
 ## Key Findings
 
