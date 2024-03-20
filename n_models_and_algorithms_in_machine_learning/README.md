@@ -4,7 +4,19 @@
 The "Palm Sky" observatory has assigned a task: to devise a way to use a neural network to determine the temperature on the surface of detected stars. In this independent project, it is necessary to develop a neural network that will help predict the absolute temperature on the surface of a star.
 
 ## Tools & Skills
-Python, Pandas, Numpy, Os, Tqdm, Plotly.express, Random, Copy, Pandas_profiling, Matplotlib, Math, Torch, Sklearn
+* Python
+* Pandas
+* Numpy
+* Os
+* Tqdm
+* Plotly.express
+* Random
+* Copy
+* Pandas_profiling
+* Matplotlib
+* Math
+* Torch
+* Sklearn
 
 ## Key Findings
 
