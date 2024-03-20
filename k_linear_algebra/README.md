@@ -4,7 +4,11 @@
 The data of the clients of the insurance company 'Even if Flood' should be protected. Develop a method of data transformation in such a way that it is difficult to reconstruct personal information from it. Justify the correctness of its operation. It is necessary to protect the data so that the quality of machine learning models does not deteriorate during the transformation. It is not necessary to select the best model
 
 ## Tools & Skills
-Python, Pandas, Numpy, Matplotlib, Sklearn
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Sklearn
 
 ## Key Findings
 
