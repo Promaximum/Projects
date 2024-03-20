@@ -1,4 +1,4 @@
-# Project: "Telecom" 
+# Telecom
 
 ## Project description 
 The telecommunications operator "TeleDom" wants to combat customer churn. To do this, its employees will start offering promo codes and special conditions to anyone planning to terminate their services. To proactively identify such users, "TeleDom" needs a model that will predict whether a subscriber will terminate their contract. The operator's team has collected personal data about some customers, as well as information about their tariffs and services. The task is to train a model on this data to predict customer churn.
